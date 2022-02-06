@@ -3,6 +3,10 @@
     {
       "source": "https://job-offers-container.vercel.app/:match*",
       "destination": "https://dashboard-zeta-five.vercel.app/:match*"
+    },
+    {
+      "source": "https://job-offers-container.vercel.app1/:match*",
+      "destination": "https://dashboard-zeta-five.vercel.ap1p/:match*"
     }
   ]
 }
