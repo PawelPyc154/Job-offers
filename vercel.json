@@ -1,8 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "https://job-offers-container.vercel.app/",
-      "destination": "https://dashboard-zeta-five.vercel.app/"
+      "source": "https://job-offers-container.vercel.app/:match*",
+      "destination": "https://dashboard-zeta-five.vercel.app/:match*"
     }
   ]
 }
